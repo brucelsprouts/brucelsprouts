@@ -1,67 +1,95 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Bruce!
+# <img src="https://raw.githubusercontent.com/brucelsprouts/brucelsprouts/main/assets/wave.gif" width="30px"> Hello, I'm Bruce Lin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub followers](https://img.shields.io/github/followers/brucelsprouts?label=Follow&style=social)](https://github.com/brucelsprouts)
+[![Website](https://img.shields.io/badge/Portfolio-brucelsprouts.github.io-1f425f?style=for-the-badge&logo=firefox&logoColor=white)](https://brucelsprouts.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-lin-6284b323b/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelsprouts)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brucelsproutss/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/brucelsprouts/)
 
-## 💫 About Me
-I'm a passionate Computer Science student at Western University of Ontario entering my third year. My journey in tech is driven by curiosity and a desire to create meaningful solutions. When I'm not coding, you'll find me exploring new technologies, volunteering, and pursuing my creative hobbies.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/brucelsprouts/brucelsprouts/main/assets/coding.gif" alt="Coding" width="400"/>
+</div>
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 📊 Personal Portfolio
-A responsive personal portfolio showcasing my skills and projects using React, Tailwind CSS, and Three.js.
-- **Features**: Interactive 3D elements, dark/light mode, responsive design
-- **Tech Stack**: React, Tailwind CSS, Three.js
-- [**View Project »**](https://github.com/brucelsprouts/portfolio)
+I'm a Computer Science student at Western University with a passion for web development, video editing, and programming. I'm always learning and exploring new technologies.
 
-*Stay tuned for more exciting projects coming this summer!*
+- 🎓 Second year Computer Science student at Western University
+- 💼 Working as a freelance Video Editor at AMG
+- 🧑‍🏫 Experience as an English tutor at Ignite Youth Club
+- 🌐 Web Developer creating responsive and interactive websites
+- 🎬 Content Creator with expertise in video editing and motion graphics
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+</div>
 
-## 🎓 Experience
-- **Computer Science Student** at Western University of Ontario (2021-Present)
-- **Teaching Volunteer** helping high school students learn programming fundamentals
-- **Hackathon Participant** at [Hackathon Name]
+### 💻 Programming & Web Development
+- HTML5 (95%)
+- CSS3 (90%)
+- JavaScript
+- Java (80%)
+- Python (90%)
 
-## 📈 GitHub Stats
+### 🎨 Design & Multimedia
+- Adobe After Effects (85%)
+- Adobe Photoshop (75%)
+- Motion Graphics
+- Video Editing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brucelsprouts&show_icons=true&theme=tokyonight" alt="Bruce's GitHub stats" />
-</p>
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucelsprouts&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### Web Development
+- **[Portfolio Website](https://brucelsprouts.github.io/)** - A responsive personal portfolio showcasing my skills and projects
+  - _Tech Stack: HTML5, CSS3, JavaScript, Photoshop_
+
+### Java Projects
+- **Pac-Man Recreation** - A recreation of the classic Pac-Man game
+  - _Tech Stack: Java, Photoshop_
+- **Tower Climber** - A platformer game where players climb a tower while avoiding obstacles
+  - _Tech Stack: Java, Photoshop_
+
+### Video Portfolio
+- **Motion Graphics Projects** - Including "The Countdown" and "The Magic Book"
+- **Video Editing Projects** - Including "Smokin' Joe" and "Four Square Miles to Glory"
+- **Music Videos** - Creative visual storytelling combined with music
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brucelsprouts&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brucelsprouts&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucelsprouts&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/brucelsprouts/brucelsprouts/blob/output/dist/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/brucelsprouts/brucelsprouts/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## 🌱 What I'm Focused On
-- Building more full-stack web applications
-- Contributing to open-source projects
-- Expanding my knowledge in AI and machine learning
-- Volunteering as a programming teacher this summer
+## 📫 Connect With Me
 
-## 🌟 Fun Facts
-- I enjoy [hobby 1] and [hobby 2] in my free time
-- Big fan of [interest]
-- Always looking for new tech challenges
+- **Email:**
+  - Personal: [bruce700982@gmail.com](mailto:bruce700982@gmail.com)
+  - Code: [email@brucelsprouts.com](mailto:email@brucelsprouts.com)
+  - Video Editing: [brucelsprouts.ae@gmail.com](mailto:brucelsprouts.ae@gmail.com)
+- **Location:** London, Ontario, Canada
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brucelsprouts&color=blue" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brucelsprouts&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://www.buymeacoffee.com/brucelsprouts"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</div> 
