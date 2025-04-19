@@ -59,5 +59,15 @@ I'm a Computer Science student at Western University with a passion for web deve
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brucelsprouts&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://gixie.org/">
+    <img src="https://gixie.org/gixie-ani.gif?date=1&theme=nixos&style=mono" alt="Gixie Clock" width="400px" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=brucelsprouts&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  
+  [![Website](https://img.shields.io/badge/Portfolio-brucelsprouts.github.io-1f425f?style=for-the-badge&logo=firefox&logoColor=white)](https://brucelsprouts.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-lin-6284b323b/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelsprouts)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brucelsproutss/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/brucelsprouts/)
 </div> 
