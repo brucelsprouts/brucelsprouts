@@ -1,10 +1,14 @@
-# <div align="center"><img src="https://raw.githubusercontent.com/brucelsprouts/brucelsprouts/main/assets/wave.gif" width="50px"> Hello, I'm Bruce Lin</div>
+# <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> Hello, I'm Bruce Lin</div>
 
+<div align="center">
+  
 [![Website](https://img.shields.io/badge/Portfolio-brucelsprouts.github.io-1f425f?style=for-the-badge&logo=firefox&logoColor=white)](https://brucelsprouts.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-lin-6284b323b/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelsprouts)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brucelsproutss/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/brucelsprouts/)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -26,7 +30,6 @@ I'm a Computer Science student at Western University with a passion for web deve
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
 ### 🎬 Video Production
@@ -46,7 +49,11 @@ I'm a Computer Science student at Western University with a passion for web deve
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <!-- GitHub Snake contribution graph will be added here -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<brucelsprouts>/<brucelsprouts>/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<brucelsprouts>/<brucelsprouts>/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/<brucelsprouts>/<brucelsprouts>/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## 📫 Connect With Me
@@ -54,8 +61,6 @@ I'm a Computer Science student at Western University with a passion for web deve
 - **Email:**
   - Personal: [bruce700982@gmail.com](mailto:bruce700982@gmail.com)
   - Code: [email@brucelsprouts.com](mailto:email@brucelsprouts.com)
-  - Video Editing: [brucelsprouts.ae@gmail.com](mailto:brucelsprouts.ae@gmail.com)
-
 ---
 
 <div align="center">
