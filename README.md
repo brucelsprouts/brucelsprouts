@@ -11,7 +11,6 @@
 </div>
 
 ## 👨‍💻 About Me
-
 I'm a Computer Science student at Western University with a passion for web development, video editing, and programming. I'm always learning and exploring new technologies.
 
 - 🎓 Second year Computer Science student at Western University
@@ -36,18 +35,12 @@ I'm a Computer Science student at Western University with a passion for web deve
 <div align="center">
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=brucelsprouts&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800
 " alt="GitHub Stats" height="165" />
-=======
-  <img src="https://github-readme-stats.vercel.app/api?username=brucelsprouts&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
->>>>>>> parent of 028798d (githuib icon)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucelsprouts&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
