@@ -54,7 +54,6 @@ I'm a Computer Science student at Western University with a passion for web deve
   <br/>
 </div>
 
-
 ## 📫 Connect With Me
 
 - **Email:**
