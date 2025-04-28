@@ -1,18 +1,15 @@
 # <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> Hello, I'm Bruce Lin</div>
 
 <div align="center">
-  
 [![Website](https://img.shields.io/badge/Portfolio-brucelsprouts.github.io-1f425f?style=for-the-badge&logo=firefox&logoColor=white)](https://brucelsprouts.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-lin-6284b323b/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelsprouts)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brucelsproutss/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/brucelsprouts/)
-
 </div>
 
 ## 👨‍💻 About Me
 I'm a Computer Science student at Western University with a passion for web development, video editing, and programming. I'm always learning and exploring new technologies.
-
 - 🎓 Second year Computer Science student at Western University
 - 💼 Working as a freelance Video Editor at AMG
 - 🧑‍🏫 Experience as an English tutor at Ignite Youth Club
@@ -44,7 +41,6 @@ I'm a Computer Science student at Western University with a passion for web deve
 </div>
 
 ## 🐍 Contribution Graph
-
 <div align="center">
   <br>
   <picture>
@@ -55,7 +51,6 @@ I'm a Computer Science student at Western University with a passion for web deve
 </div>
 
 ## 📫 Connect With Me
-
 - **Email:**
   - Personal: [bruce700982@gmail.com](mailto:bruce700982@gmail.com)
   - Code: [email@brucelsprouts.com](mailto:email@brucelsprouts.com)
