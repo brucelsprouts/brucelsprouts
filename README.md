@@ -75,4 +75,3 @@ I'm a Computer Science student at Western University with a passion for web deve
 - **Email:**
   - Personal: [bruce700982@gmail.com](mailto:bruce700982@gmail.com)
   - Code: [email@brucelsprouts.com](mailto:email@brucelsprouts.com)
----
