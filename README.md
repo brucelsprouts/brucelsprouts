@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+![Nixie Counter](https://nixie.brucelsprouts/nixiecounter/public/simple.php?username=yourusername)
+
+</div>
+
 ## 👨‍💻 About Me
 I'm a Computer Science student at Western University with a passion for web development, video editing, and programming. I'm always learning and exploring new technologies.
 
