@@ -12,8 +12,8 @@
 
 <div align="center">
 
-![Nixie Counter](https://nixie.brucelsprouts/nixiecounter/public/simple.php?username=brucelsprouts)
-
+  ![Nixie Counter](http://192.18.158.188:8080/nixiecounter/public/simple.php?username=brucelsprouts)
+  
 </div>
 
 ## 👨‍💻 About Me
