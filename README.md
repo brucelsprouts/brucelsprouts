@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Nixie Counter](https://nixie.brucelsprouts/nixiecounter/public/simple.php?username=yourusername)
+![Nixie Counter](https://nixie.brucelsprouts/nixiecounter/public/simple.php?username=brucelsprouts)
 
 </div>
 
