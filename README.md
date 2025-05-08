@@ -66,7 +66,3 @@ I'm a Computer Science student at Western University with a passion for web deve
   - Personal: [bruce700982@gmail.com](mailto:bruce700982@gmail.com)
   - Code: [email@brucelsprouts.com](mailto:email@brucelsprouts.com)
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brucelsprouts&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div> 
