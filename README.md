@@ -11,8 +11,10 @@
 </div>
 
 <div align="center">
+  
+![Nixie Counter](http://70.31.36.222:8080/simple.php?username=brucelsprouts)
 
-  ![Nixie Counter](http://192.18.158.188:8080/nixiecounter/public/simple.php?username=brucelsprouts)
+![Nixie Counter](http://192.18.158.188:8080/nixiecounter/public/simple.php?username=brucelsprouts)
   
 </div>
 
