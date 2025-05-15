@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![Nixie Counter](http://192.18.158.188:8080/simple.php?username=brucelsprouts)
+![Nixie Counter](http://192.18.158.188:8080/simple.php?username=brucelsprouts&t=2)
 Profile Viewer Counter
 </div>
 
