@@ -19,7 +19,7 @@ Viewer Count
 ## 👨‍💻 About Me
 I'm a Computer Science student at Western University with a passion for web development, video editing, and programming. I'm always learning and exploring new technologies.
 
-- 🎓 Second year Computer Science student at Western University
+- 🎓 Third year Computer Science student at Western University
 - 💼 Working as a freelance Video Editor at AMG
 - 🧑‍🏫 Experience as an English tutor at Ignite Youth Club
 - 🌐 Web Developer creating responsive and interactive websites
