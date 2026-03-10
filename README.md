@@ -19,10 +19,10 @@ Viewer Count
 I'm a Computer Science student at Western University with a passion for web development, video editing, and programming. I'm always learning and exploring new technologies.
 
 - Third year Computer Science student at Western University
-- Working as a freelance Video Editor at AMG
+- Freelance Video Editor at AMG
 - Experience as an English tutor at Ignite Youth Club
-- Web Developer creating responsive and interactive websites
-- Content Creator with expertise in video editing and motion graphics
+- Content creator with experience in video editing
+- Currently learning Blender and exploring 3D modeling
 
 ## Tech Stack
 
