@@ -47,3 +47,5 @@ These are things I enjoy outside traditional programming.
 
 - **Email:**
   - Personal: [bruce700982@gmail.com](mailto:bruce700982@gmail.com)
+  - Work: [email@brucelsprouts.com](mailto:email@brucelsprouts.com)
+
