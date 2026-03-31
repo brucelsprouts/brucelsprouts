@@ -5,7 +5,6 @@
 [![Website](https://img.shields.io/badge/Portfolio-brucelsprouts.com-1f425f?style=for-the-badge&logo=firefox&logoColor=white)](https://brucelsprouts.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-lin-6284b323b/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelsprouts)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/brucelsprouts/)
 
 </div>
 <div align="center">
