@@ -23,8 +23,9 @@ I'm a Computer Science student at Western University with a passion for web deve
 - Currently learning Blender and exploring 3D modeling
 
 ## Tech Stack
-HTML • CSS • JavaScript • Java • Python • PHP  
-Node.js • Git • Linux • Apache
+HTML • CSS • JavaScript • Java • Python  
+Git • Unix / Linux  
+Claude Code  
 
 ## Creative Skills
 These are things I enjoy outside traditional programming.
